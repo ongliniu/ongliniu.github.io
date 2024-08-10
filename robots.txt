@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ongliniu.github.io/sitemap.html.gz
+Sitemap: https://ongliniu.github.io/app/sitemap.html.gz
+Sitemap: https://ongliniu.github.io/assets/sitemap.html.gz
+Sitemap: https://ongliniu.github.io/css/sitemap.html.gz
+Sitemap: https://ongliniu.github.io/includes/sitemap.html.gz
+Sitemap: https://ongliniu.github.io/item/sitemap.html.gz
+Sitemap: https://ongliniu.github.io/src/sitemap.html.gz
